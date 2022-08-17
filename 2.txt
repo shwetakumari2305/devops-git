@@ -1,0 +1,3 @@
+**********String buffer -
+-String buffer is synchronised and mutable.
+-it is less efficient than string builder.
